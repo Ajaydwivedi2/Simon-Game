@@ -2,7 +2,7 @@
 > Welcome to our project! This is a Simon Game app made with JavaScript. The aim of creatinig this project was to learn how to use the JavaScript library "jQuery" in JavaScript.
 > Live demo [_here_](https://ajaydwivedi2.github.io/Simon-Game/). <!-- If you have the project hosted somewhere, include the link here. -->
 
-![App Screenshot](https://raw.githubusercontent.com/Ajaydwivedi2/Simon-Game/main/simonGame.png)
+![App Screenshot](https://raw.githubusercontent.com/Ajaydwivedi2/Simon-Game/main/SimonGame.png)
 
 ## Table of Contents
 * [General Info](#general-information)
